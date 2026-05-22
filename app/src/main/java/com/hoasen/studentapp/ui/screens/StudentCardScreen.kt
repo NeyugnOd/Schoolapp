@@ -88,7 +88,7 @@ fun StudentCardScreen(onBack: () -> Unit) {
                         )
                         Spacer(Modifier.height(4.dp))
                         Text(
-                            "HÀ NGỌC TUYẾT TRINH",
+                            "ĐỖ THÀNH NGUYÊN",
                             fontSize = 18.sp,
                             fontWeight = FontWeight.Bold,
                             color = TextPrimary,
@@ -96,7 +96,7 @@ fun StudentCardScreen(onBack: () -> Unit) {
                         )
                         Spacer(Modifier.height(4.dp))
                         Text(
-                            "22122673",
+                            "22122349",
                             fontSize = 15.sp,
                             color = TextPrimary
                         )
@@ -117,9 +117,9 @@ fun StudentCardScreen(onBack: () -> Unit) {
                             color = TextPrimary
                         )
                         Spacer(Modifier.height(12.dp))
-                        InfoRow("Ngày sinh", "06-05-2003")
+                        InfoRow("Ngày sinh", "19-03-2003")
                         Spacer(Modifier.height(6.dp))
-                        InfoRow("Khoá", "2021")
+                        InfoRow("Khoá", "2021 - 2027")
                         Spacer(Modifier.height(16.dp))
                         Barcode()
                         Spacer(Modifier.height(4.dp))
