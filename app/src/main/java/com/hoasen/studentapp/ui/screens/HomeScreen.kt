@@ -119,7 +119,7 @@ private fun HeaderSection(onOpenStudentCard: () -> Unit) {
                 Spacer(Modifier.width(12.dp))
                 Column {
                     Text(
-                        "Hà Ngọc Tuyết Trinh",
+                        "Đỗ Thành Nguyên",
                         color = Color.White,
                         fontSize = 17.sp,
                         fontWeight = FontWeight.SemiBold
